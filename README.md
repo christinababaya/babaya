@@ -21,7 +21,9 @@
 <img align="left" alt="Eclipse" width="26px" src="https://raw.githubusercontent.com/turesheim/eclipse-icons/master/icons/source/Eclipse_Neon.png" />
 <br />
 <br />
+
 ---
+
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
@@ -29,6 +31,8 @@
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/channel/UCSO3MjeFO0_Nso7b-h0gXIA)
+
 ---
+
 [youtube]: https://www.youtube.com/channel/UCSO3MjeFO0_Nso7b-h0gXIA
 [linkedin]: www.linkedin.com/in/christina-babaya
