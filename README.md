@@ -1,7 +1,4 @@
-### Hi there, I'm Christina Babaya - aka [Xtina][website] 👋
-[![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](www.linkedin.com/in/christina-babaya
-)
-## I'm an aspiring software engineer willing to EXEL!!
+### Hi there, I'm Christina Babaya, an aspiring software engineer willing to EXEL!!
 - 🌱 I’m currently learning everything 🤣
 - 🥅 2021 Goals: Contribute more to Open Source projects
 - 👩🏽‍💻 Graduate at Hackbright Academy | Learned (& still learning) Python
